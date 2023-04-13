@@ -21,3 +21,53 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+.teamliquid-imagem{
+     width: 25%;
+}
+
+.team{
+    background-color: #9c9c9c;
+    background-image: -o-linear-gradient(#0A1723,#eeeeee);
+    color: rgb(95, 100, 100);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+}
+
+.team-div-conteudo{
+    width: 35%;
+}
+
+.imagem-dos-jogos1{
+   width: 200px; 
+}
+
+.icone-jogos{
+    width: 24px;
+}
+
+.icone-jogos2{
+    width: 24px;
+}
+
+.Jogos-div{
+    text-align: center;
+}
+
+.Nossos-jogos{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: rgb(95, 100, 100);
+    font-size: px;
+
+}
+
+.nome-jogos{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: rgb(95, 100, 100);;
+}
