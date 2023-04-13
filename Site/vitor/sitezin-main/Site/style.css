@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #0A1723;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 9%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.teamliquid-imagem{
+     width: 25%;
+}
+
+.team{
+    background-image: -o-linear-gradient(#0A1723,#eeeeee);
+    color: rgb(95, 100, 100);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+}
+
+.team-div-conteudo{
+    width: 35%;
+}
+
+.imagem-dos-jogos1{
+   width: 220px; 
+}
+
+.icone-jogos{
+    width: 24px;
+}
+
+.icone-jogos2{
+    width: 24px;
+}
+
+.Jogos-div{
+    text-align: center;
+}
