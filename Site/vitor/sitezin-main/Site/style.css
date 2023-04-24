@@ -28,11 +28,12 @@
 
 .team{
     background-image: -o-linear-gradient(#0A1723,#eeeeee);
-    color: rgb(95, 100, 100);
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 5%;
+    background-color: gray;
 }
 
 .team-div-conteudo{
@@ -53,4 +54,7 @@
 
 .Jogos-div{
     text-align: center;
+}
+.Jogos{
+    background-color: gray;
 }
